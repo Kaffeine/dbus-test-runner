@@ -1,3 +1,9 @@
+dbus-test-runner (15.04.1+ubports) xenial; urgency=medium
+
+  * Imported to UBports
+
+ -- UBports auto importer <infra@ubports.com>  Tue, 09 Jan 2018 10:06:30 +0000
+
 dbus-test-runner (15.04.0+16.10.20160906-0ubuntu1) yakkety; urgency=medium
 
   * Adjusting all the waits to be 60 seconds
